@@ -1,1 +1,6 @@
-
+﻿ID Cliente;Nombre;Email;Telefono;Ciudad
+C001;Juan Pelaez;juan_46@gmail.com;996498457;Quito
+C002;Estefania Palomeque;itsmariana@hotmail.com;996585658;Guayaquil
+C003;Veronica Mora;veronicamora@gmail.com ;996588412;Milagro
+C004;Carlos Tenemaza;carlT8@unemi.com;456588460;Milagro
+C005;Jose Astudillo;jossAst@gmail.com;996688461;Km26
